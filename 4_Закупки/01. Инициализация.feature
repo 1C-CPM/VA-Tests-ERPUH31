@@ -1,7 +1,7 @@
 ﻿#language: ru
 @tree
 
-@ERPUH31_NSI
+@ERPUH31_Purchases
 
 Функционал: 01. Инициализация системы
 
